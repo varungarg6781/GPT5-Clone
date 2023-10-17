@@ -13,4 +13,6 @@ This project provides a sleek and intuitive user interface for a chatbot applica
 
 ## Demo Images
 
-<img width="1431" alt="Screenshot 2023-10-15 at 4 32 11 AM" src="https://github.com/varungarg6781/GPT5-Clone/assets/12528253/97893271-9382-49bb-ab8b-624b67586f40">
+<img width="1431" alt="Screenshot 2023-10-15 at 4 32 11 AM" src="https://github.com/varungarg6781/GPT5-Clone/assets/12528253/58be686d-832d-44df-a8ab-c5c408cef7e7">
+
+<img width="1420" alt="Screenshot 2023-10-15 at 4 20 18 AM" src="https://github.com/varungarg6781/GPT5-Clone/assets/12528253/713dcb98-4e61-4ded-a94f-b03da991fb44">
